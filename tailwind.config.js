@@ -2,7 +2,12 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      // Personal screen size
+      screens: {
+        min80: "80rem",
+      },
+    },
   },
   plugins: [require("daisyui")],
 

@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="max-w-[96rem] w-full mx-auto px-2">
       <div className={isHome ? "bg-[#9538E2] rounded-t-[2rem]" : ""}>
         <section
-          className="mx-auto max-width-[80rem] px-4 min-[80rem]:px-0
+          className="mx-auto max-w-[80rem] px-4 min80:px-0
  py-6 mt-6 flex items-center justify-between"
         >
           {/* logo */}
