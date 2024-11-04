@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <footer className="mt-auto bg-white">
-      <section className="max-w-[80rem] px-4 min80:px-0 py-[6.25rem] bg-white flex flex-col items-center">
+    <footer className="mt-auto bg-white text-center">
+      <section className="px-4 min80:px-0 py-[6.25rem] bg-white flex flex-col items-center">
         <div className="space-y-3 pb-8 border-b mb-8 w-full text-center">
           <h2 className="text-[#09080F] text-[2rem] font-bold">
             Gadget Heaven

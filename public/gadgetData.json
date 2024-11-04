@@ -1,0 +1,316 @@
+[
+  {
+    "product_id": "LP12345",
+    "product_title": "UltraBook Pro 15",
+    "product_image": "https://example.com/images/ultrabookpro15.jpg",
+    "category": "Laptops",
+    "price": "$1499.99",
+    "description": "UltraBook Pro 15 features a sleek design, powerful performance, and a stunning 15.6-inch 4K display.",
+    "specification": {
+      "processor": "Intel Core i7-12700H",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "battery": "10 hours",
+      "graphics": "NVIDIA GeForce RTX 3050"
+    },
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": "LP12346",
+    "product_title": "Gaming Beast 17",
+    "product_image": "https://example.com/images/gamingbeast17.jpg",
+    "category": "Laptops",
+    "price": "$1999.99",
+    "description": "Gaming Beast 17 is designed for gamers with high-performance specs and RGB lighting.",
+    "specification": {
+      "processor": "Intel Core i9-12900K",
+      "ram": "32 GB",
+      "storage": "2 TB SSD",
+      "battery": "6 hours",
+      "graphics": "NVIDIA GeForce RTX 3080"
+    },
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": "LP12347",
+    "product_title": "Lightweight Book 13",
+    "product_image": "https://example.com/images/lightweightbook13.jpg",
+    "category": "Laptops",
+    "price": "$899.99",
+    "description": "Lightweight Book 13 is perfect for students and professionals on the go, with long battery life and portable design.",
+    "specification": {
+      "processor": "Intel Core i5-1235U",
+      "ram": "8 GB",
+      "storage": "512 GB SSD",
+      "battery": "12 hours",
+      "graphics": "Intel Iris Xe"
+    },
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "LP12348",
+    "product_title": "Business Pro 14",
+    "product_image": "https://example.com/images/businesspro14.jpg",
+    "category": "Laptops",
+    "price": "$1299.99",
+    "description": "Business Pro 14 combines performance and security features ideal for professionals.",
+    "specification": {
+      "processor": "AMD Ryzen 7 5800U",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "battery": "8 hours",
+      "graphics": "AMD Radeon Graphics"
+    },
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": "LP12349",
+    "product_title": "Student Laptop 15",
+    "product_image": "https://example.com/images/studentlaptop15.jpg",
+    "category": "Laptops",
+    "price": "$649.99",
+    "description": "Student Laptop 15 offers great performance for everyday tasks and entertainment.",
+    "specification": {
+      "processor": "Intel Core i3-1115G4",
+      "ram": "8 GB",
+      "storage": "256 GB SSD",
+      "battery": "10 hours",
+      "graphics": "Intel UHD Graphics"
+    },
+    "availability": "In Stock",
+    "rating": 4.2
+  },
+  {
+    "product_id": "SP12358",
+    "product_title": "Galaxy Smart Z",
+    "product_image": "https://example.com/images/galaxysmartz.jpg",
+    "category": "Smartphones",
+    "price": "$799.99",
+    "description": "Galaxy Smart Z combines cutting-edge technology with a sleek design and an advanced camera system.",
+    "specification": {
+      "processor": "Exynos 2100",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "4500 mAh",
+      "camera": {
+        "rear": "64 MP + 12 MP + 5 MP",
+        "front": "32 MP"
+      },
+      "os": "Android 12"
+    },
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "product_id": "SP12359",
+    "product_title": "Pixel Phone 7",
+    "product_image": "https://example.com/images/pixelphone7.jpg",
+    "category": "Smartphones",
+    "price": "$699.99",
+    "description": "Pixel Phone 7 delivers a pure Android experience with exceptional camera capabilities and fast performance.",
+    "specification": {
+      "processor": "Google Tensor G2",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4355 mAh",
+      "camera": {
+        "rear": "50 MP + 12 MP",
+        "front": "10.8 MP"
+      },
+      "os": "Android 12"
+    },
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": "SP12360",
+    "product_title": "OnePlus Nord 2",
+    "product_image": "https://example.com/images/oneplusnord2.jpg",
+    "category": "Smartphones",
+    "price": "$499.99",
+    "description": "OnePlus Nord 2 offers flagship features at an affordable price, with a powerful processor and impressive camera.",
+    "specification": {
+      "processor": "MediaTek Dimensity 1200",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4500 mAh",
+      "camera": {
+        "rear": "50 MP + 8 MP + 2 MP",
+        "front": "32 MP"
+      },
+      "os": "Android 11"
+    },
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW12345",
+    "product_title": "SmartWatch Pro 3",
+    "product_image": "https://example.com/images/smartwatchpro3.jpg",
+    "category": "Smartwatches",
+    "price": "$299.99",
+    "description": "SmartWatch Pro 3 offers advanced health tracking features and a sleek design with customizable watch faces.",
+    "specification": {
+      "display": "1.4-inch AMOLED",
+      "battery": "30 hours",
+      "water_resistance": "IP68",
+      "features": [
+        "Heart Rate Monitor",
+        "GPS Tracking",
+        "Sleep Tracking",
+        "Notifications"
+      ]
+    },
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": "SW12346",
+    "product_title": "FitTrack 2",
+    "product_image": "https://example.com/images/fittrack2.jpg",
+    "category": "Smartwatches",
+    "price": "$199.99",
+    "description": "FitTrack 2 focuses on fitness with integrated workouts, heart rate monitoring, and a lightweight design.",
+    "specification": {
+      "display": "1.3-inch LCD",
+      "battery": "7 days",
+      "water_resistance": "5 ATM",
+      "features": [
+        "Activity Tracking",
+        "Heart Rate Monitor",
+        "Calorie Counter",
+        "Sleep Monitoring"
+      ]
+    },
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW12347",
+    "product_title": "HealthWatch 5",
+    "product_image": "https://example.com/images/healthwatch5.jpg",
+    "category": "Smartwatches",
+    "price": "$349.99",
+    "description": "HealthWatch 5 provides comprehensive health tracking and integrates seamlessly with your smartphone.",
+    "specification": {
+      "display": "1.5-inch Retina",
+      "battery": "24 hours",
+      "water_resistance": "IP68",
+      "features": [
+        "ECG Monitoring",
+        "Blood Oxygen Tracking",
+        "Fitness Coaching",
+        "Notifications"
+      ]
+    },
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": "AC12345",
+    "product_title": "Wireless Earbuds Pro",
+    "product_image": "https://example.com/images/wirelessearbudspro.jpg",
+    "category": "Accessories",
+    "price": "$149.99",
+    "description": "Wireless Earbuds Pro offer high-quality sound with noise cancellation and a long-lasting battery.",
+    "specification": {
+      "battery_life": "30 hours",
+      "charging_case": "Yes",
+      "water_resistance": "IPX5",
+      "features": [
+        "Touch Controls",
+        "Voice Assistant Integration",
+        "Fast Charging"
+      ]
+    },
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "product_id": "AC12346",
+    "product_title": "Smartphone Car Mount",
+    "product_image": "https://example.com/images/smartphone_carmount.jpg",
+    "category": "Accessories",
+    "price": "$29.99",
+    "description": "Easily mount your smartphone in your car with this adjustable and sturdy car mount.",
+    "specification": {
+      "compatibility": "All Smartphones",
+      "mount_type": "Dashboard",
+      "rotation": "360 Degrees",
+      "installation": "Easy Adhesive"
+    },
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "AC12347",
+    "product_title": "Laptop Sleeve Case",
+    "product_image": "https://example.com/images/laptopsleevecase.jpg",
+    "category": "Accessories",
+    "price": "$39.99",
+    "description": "Protect your laptop with this stylish and durable sleeve case, designed for 15-inch laptops.",
+    "specification": {
+      "material": "Neoprene",
+      "dimensions": "15.6 x 11 x 1 inches",
+      "color_options": ["Black", "Gray", "Blue"],
+      "additional_pockets": "Yes"
+    },
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": "AC12348",
+    "product_title": "Portable Phone Charger",
+    "product_image": "https://example.com/images/portablephonecharger.jpg",
+    "category": "Accessories",
+    "price": "$49.99",
+    "description": "Keep your devices charged on the go with this compact and powerful portable phone charger.",
+    "specification": {
+      "capacity": "10,000 mAh",
+      "ports": "2 USB Outputs",
+      "fast_charging": "Yes",
+      "size": "Compact"
+    },
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+
+  {
+    "product_id": "HP12345",
+    "product_title": "NoiseCancelling Headphones 3000",
+    "product_image": "https://example.com/images/noisecancelling3000.jpg",
+    "category": "Headphones",
+    "price": "$199.99",
+    "description": "Experience premium sound quality and active noise cancellation with the NoiseCancelling Headphones 3000.",
+    "specification": {
+      "battery_life": "20 hours",
+      "connectivity": "Bluetooth 5.0",
+      "features": [
+        "Active Noise Cancellation",
+        "Touch Controls",
+        "Voice Assistant Integration"
+      ]
+    },
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": "HP12346",
+    "product_title": "Wireless Studio Headphones",
+    "product_image": "https://example.com/images/wirelessstudioheadphones.jpg",
+    "category": "Headphones",
+    "price": "$299.99",
+    "description": "Designed for audiophiles, these wireless studio headphones deliver exceptional sound clarity and comfort.",
+    "specification": {
+      "battery_life": "25 hours",
+      "connectivity": "Bluetooth 5.0 / Wired",
+      "features": ["High-Fidelity Sound", "Customizable EQ", "Foldable Design"]
+    },
+    "availability": "In Stock",
+    "rating": 4.9
+  }
+]
